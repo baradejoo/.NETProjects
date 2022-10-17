@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kamilbaradziej/C#_.NETProjects/Lab1/Aplikacja3/Aplikacja3/Aplikacja3.csproj": {}
+    "/Users/kamilbaradziej/NETProjects/Lab1/Aplikacja3/Aplikacja3/Aplikacja3.csproj": {}
   },
   "projects": {
-    "/Users/kamilbaradziej/C#_.NETProjects/Lab1/Aplikacja3/Aplikacja3/Aplikacja3.csproj": {
+    "/Users/kamilbaradziej/NETProjects/Lab1/Aplikacja3/Aplikacja3/Aplikacja3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kamilbaradziej/C#_.NETProjects/Lab1/Aplikacja3/Aplikacja3/Aplikacja3.csproj",
+        "projectUniqueName": "/Users/kamilbaradziej/NETProjects/Lab1/Aplikacja3/Aplikacja3/Aplikacja3.csproj",
         "projectName": "Aplikacja3",
-        "projectPath": "/Users/kamilbaradziej/C#_.NETProjects/Lab1/Aplikacja3/Aplikacja3/Aplikacja3.csproj",
+        "projectPath": "/Users/kamilbaradziej/NETProjects/Lab1/Aplikacja3/Aplikacja3/Aplikacja3.csproj",
         "packagesPath": "/Users/kamilbaradziej/.nuget/packages/",
-        "outputPath": "/Users/kamilbaradziej/C#_.NETProjects/Lab1/Aplikacja3/Aplikacja3/obj/",
+        "outputPath": "/Users/kamilbaradziej/NETProjects/Lab1/Aplikacja3/Aplikacja3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kamilbaradziej/.nuget/NuGet/NuGet.Config"
