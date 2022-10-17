@@ -1,0 +1,15 @@
+/Users/kamilbaradziej/NETProjects/Lab1/Aplikacja9_Kamil/Aplikacja9_Kamil/bin/Debug/net6.0/Aplikacja9_Kamil
+/Users/kamilbaradziej/NETProjects/Lab1/Aplikacja9_Kamil/Aplikacja9_Kamil/bin/Debug/net6.0/Aplikacja9_Kamil.deps.json
+/Users/kamilbaradziej/NETProjects/Lab1/Aplikacja9_Kamil/Aplikacja9_Kamil/bin/Debug/net6.0/Aplikacja9_Kamil.runtimeconfig.json
+/Users/kamilbaradziej/NETProjects/Lab1/Aplikacja9_Kamil/Aplikacja9_Kamil/bin/Debug/net6.0/Aplikacja9_Kamil.dll
+/Users/kamilbaradziej/NETProjects/Lab1/Aplikacja9_Kamil/Aplikacja9_Kamil/bin/Debug/net6.0/Aplikacja9_Kamil.pdb
+/Users/kamilbaradziej/NETProjects/Lab1/Aplikacja9_Kamil/Aplikacja9_Kamil/obj/Debug/net6.0/Aplikacja9_Kamil.csproj.AssemblyReference.cache
+/Users/kamilbaradziej/NETProjects/Lab1/Aplikacja9_Kamil/Aplikacja9_Kamil/obj/Debug/net6.0/Aplikacja9_Kamil.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamilbaradziej/NETProjects/Lab1/Aplikacja9_Kamil/Aplikacja9_Kamil/obj/Debug/net6.0/Aplikacja9_Kamil.AssemblyInfoInputs.cache
+/Users/kamilbaradziej/NETProjects/Lab1/Aplikacja9_Kamil/Aplikacja9_Kamil/obj/Debug/net6.0/Aplikacja9_Kamil.AssemblyInfo.cs
+/Users/kamilbaradziej/NETProjects/Lab1/Aplikacja9_Kamil/Aplikacja9_Kamil/obj/Debug/net6.0/Aplikacja9_Kamil.csproj.CoreCompileInputs.cache
+/Users/kamilbaradziej/NETProjects/Lab1/Aplikacja9_Kamil/Aplikacja9_Kamil/obj/Debug/net6.0/Aplikacja9_Kamil.dll
+/Users/kamilbaradziej/NETProjects/Lab1/Aplikacja9_Kamil/Aplikacja9_Kamil/obj/Debug/net6.0/refint/Aplikacja9_Kamil.dll
+/Users/kamilbaradziej/NETProjects/Lab1/Aplikacja9_Kamil/Aplikacja9_Kamil/obj/Debug/net6.0/Aplikacja9_Kamil.pdb
+/Users/kamilbaradziej/NETProjects/Lab1/Aplikacja9_Kamil/Aplikacja9_Kamil/obj/Debug/net6.0/Aplikacja9_Kamil.genruntimeconfig.cache
+/Users/kamilbaradziej/NETProjects/Lab1/Aplikacja9_Kamil/Aplikacja9_Kamil/obj/Debug/net6.0/ref/Aplikacja9_Kamil.dll
